@@ -16,7 +16,6 @@
         name="collective.js.prettify.stylesheets"
         directory="stylesheets"
         />
-        <!-- layer="collective.js.prettify.interfaces.IPrettifySpecific" -->
 
     <genericsetup:registerProfile
         name="default"

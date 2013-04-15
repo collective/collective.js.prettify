@@ -4,7 +4,8 @@ Changelog
 0.3 (unreleased)
 ----------------
 
-- Nothing changed yet.
+- Moved to github
+  [saily]
 
 
 0.2 (2010-07-24)
